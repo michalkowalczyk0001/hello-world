@@ -1,2 +1,3 @@
 # hello-world
-nope
+
+print('hello world')
